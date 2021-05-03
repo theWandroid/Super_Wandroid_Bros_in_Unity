@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: 0e94320f57d76ac4bad8db341dc895be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8941263959544922162
+    second: Yetis_0
+  - first:
+      213: -4320570391278179155
+    second: Yetis_1
+  - first:
+      213: -5123270262706468508
+    second: Yetis_2
+  - first:
+      213: -5605723267988050808
+    second: Yetis_3
+  - first:
+      213: 1917943362191359551
+    second: Yetis_4
+  - first:
+      213: -8940702847268140417
+    second: Yetis_5
+  - first:
+      213: 2291906107305111965
+    second: Yetis_6
+  - first:
+      213: -3827711495107608070
+    second: Yetis_7
+  - first:
+      213: 4917522867755612121
+    second: Yetis_8
+  - first:
+      213: -9187585451413260394
+    second: Yetis_9
+  - first:
+      213: 8099497810304640439
+    second: Yetis_10
+  - first:
+      213: -909034212398112666
+    second: Yetis_11
+  - first:
+      213: 824602515879643619
+    second: Yetis_12
+  - first:
+      213: -2920699902961534894
+    second: Yetis_13
+  - first:
+      213: 1031289644995774627
+    second: Yetis_14
+  - first:
+      213: -7545517828247675604
+    second: Yetis_15
+  - first:
+      213: 2743265412379713526
+    second: Yetis_16
+  - first:
+      213: -6604842299302404464
+    second: Yetis_17
+  - first:
+      213: -2385660344554946135
+    second: Yetis_18
+  - first:
+      213: -2430464919075620777
+    second: Yetis_19
+  - first:
+      213: -4723025485141295110
+    second: Yetis_20
+  - first:
+      213: 4263556881748690204
+    second: Yetis_21
+  - first:
+      213: 3011400542992079590
+    second: Yetis_22
+  - first:
+      213: 8219065270060609473
+    second: Yetis_23
+  - first:
+      213: 8835626560085589929
+    second: Yetis_24
+  - first:
+      213: 2381870959488048724
+    second: Yetis_25
+  - first:
+      213: 1268063184649667383
+    second: Yetis_26
+  - first:
+      213: -6775628941289681380
+    second: Yetis_27
+  - first:
+      213: 4844725949126229560
+    second: Yetis_28
+  - first:
+      213: -6251841312448117517
+    second: Yetis_29
+  - first:
+      213: -4930372761569367584
+    second: Yetis_30
+  - first:
+      213: -8944481851583451450
+    second: Yetis_31
+  - first:
+      213: -1224833327564977297
+    second: Yetis_32
+  - first:
+      213: -112968789040815964
+    second: Yetis_33
+  - first:
+      213: 2063169876848992426
+    second: Yetis_34
+  - first:
+      213: 8174545312963131145
+    second: Yetis_35
+  - first:
+      213: -8342731402857528575
+    second: Yetis_36
+  - first:
+      213: 3919603399182319926
+    second: Yetis_37
+  - first:
+      213: 7755499193515445233
+    second: Yetis_38
+  - first:
+      213: -2482501121801857412
+    second: Yetis_39
+  - first:
+      213: -9221544980230869878
+    second: Yetis_40
+  - first:
+      213: -7344425044841728444
+    second: Yetis_41
+  - first:
+      213: 6506638489174388757
+    second: Yetis_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yetis_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 670
+        width: 145
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf72583dcf3ae380800000000000000
+      internalID: -8941263959544922162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 749
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac2bc8de104a04c0800000000000000
+      internalID: -4320570391278179155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 750
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690f0f17dc76e8b0800000000000000
+      internalID: -5123270262706468508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 749
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c2e6e53687432b0800000000000000
+      internalID: -5605723267988050808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 749
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3efbb28357ed9a10800000000000000
+      internalID: 1917943362191359551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 750
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a424a512e3ce380800000000000000
+      internalID: -8940702847268140417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 750
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d913878267c7ecf10800000000000000
+      internalID: 2291906107305111965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_7
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 748
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af18e6fdcac31eac0800000000000000
+      internalID: -3827711495107608070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 750
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7fe6b7efc8e3440800000000000000
+      internalID: 4917522867755612121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_9
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 749
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69737f8b5b32f7080800000000000000
+      internalID: -9187585451413260394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 670
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b523427852376070800000000000000
+      internalID: 8099497810304640439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 668
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660655933367263f0800000000000000
+      internalID: -909034212398112666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 672
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e946e78e93917b00800000000000000
+      internalID: 824602515879643619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 668
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258b57ca9e69777d0800000000000000
+      internalID: -2920699902961534894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 668
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a80386d770ef4e00800000000000000
+      internalID: 1031289644995774627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_15
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 668
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d9be8538fe84790800000000000000
+      internalID: -7545517828247675604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 667
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff128dab59021620800000000000000
+      internalID: 2743265412379713526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_17
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 669
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e1b983ce2e654a0800000000000000
+      internalID: -6604842299302404464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_18
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 669
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a101107e8e64eed0800000000000000
+      internalID: -2385660344554946135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_19
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 669
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758f2738801454ed0800000000000000
+      internalID: -2430464919075620777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 157
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff390d4851747eb0800000000000000
+      internalID: -4723025485141295110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 511
+        width: 158
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158d4805623b2b30800000000000000
+      internalID: 4263556881748690204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 510
+        width: 138
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea1679b6d4aac920800000000000000
+      internalID: 3011400542992079590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_23
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 510
+        width: 138
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf66bf015cff0270800000000000000
+      internalID: 8219065270060609473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_24
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 510
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af78e11b837e9a70800000000000000
+      internalID: 8835626560085589929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_25
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 511
+        width: 145
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e9a19940b1e0120800000000000000
+      internalID: 2381870959488048724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334bc97fb0199110800000000000000
+      internalID: 1268063184649667383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 351
+        width: 153
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e8290706128f1a0800000000000000
+      internalID: -6775628941289681380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 351
+        width: 153
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e39cf059ceb3340800000000000000
+      internalID: 4844725949126229560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_29
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 351
+        width: 153
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f40b63337ffc39a0800000000000000
+      internalID: -6251841312448117517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 351
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96568781cc39bb0800000000000000
+      internalID: -4930372761569367584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 190
+        width: 145
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cea0785521ded380800000000000000
+      internalID: -8944481851583451450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 190
+        width: 146
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b0e69f394800fe0800000000000000
+      internalID: -1224833327564977297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 190
+        width: 146
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a024822c77ae6ef0800000000000000
+      internalID: -112968789040815964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 190
+        width: 146
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0eed4621ad1ac10800000000000000
+      internalID: 2063169876848992426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_35
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 190
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907708bc6a1d17170800000000000000
+      internalID: 8174545312963131145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_36
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 189
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1034e24adf9a83c80800000000000000
+      internalID: -8342731402857528575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 30
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6310dac468a356630800000000000000
+      internalID: 3919603399182319926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 30
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb01551d6111ab60800000000000000
+      internalID: 7755499193515445233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 30
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76dd70f1626c8dd0800000000000000
+      internalID: -2482501121801857412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_40
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 30
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c6d05c2bd760080800000000000000
+      internalID: -9221544980230869878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_41
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 30
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f9ba855c531a90800000000000000
+      internalID: -7344425044841728444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yetis_42
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 30
+        width: 146
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510bf157b393c4a50800000000000000
+      internalID: 6506638489174388757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

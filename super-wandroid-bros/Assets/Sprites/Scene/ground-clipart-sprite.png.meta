@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 36650888b77c99b4ba38b7bd41b344c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5178460397966130072
+    second: ground-clipart-sprite_0
+  - first:
+      213: 7236944643017854236
+    second: ground-clipart-sprite_1
+  - first:
+      213: 4234670876157299263
+    second: ground-clipart-sprite_2
+  - first:
+      213: -8101893153507227428
+    second: ground-clipart-sprite_3
+  - first:
+      213: 3723373894531205770
+    second: ground-clipart-sprite_4
+  - first:
+      213: 8561483739212739703
+    second: ground-clipart-sprite_5
+  - first:
+      213: 6164007270800525022
+    second: ground-clipart-sprite_6
+  - first:
+      213: 6771664910904244732
+    second: ground-clipart-sprite_7
+  - first:
+      213: -1016344850599142261
+    second: ground-clipart-sprite_8
+  - first:
+      213: 8687639660743738814
+    second: ground-clipart-sprite_9
+  - first:
+      213: 6569702732039599454
+    second: ground-clipart-sprite_10
+  - first:
+      213: -2531227089911119466
+    second: ground-clipart-sprite_11
+  - first:
+      213: -4556944821359136985
+    second: ground-clipart-sprite_12
+  - first:
+      213: 2544506555511476672
+    second: ground-clipart-sprite_13
+  - first:
+      213: -6001248269823894031
+    second: ground-clipart-sprite_14
+  - first:
+      213: -4415671755904174867
+    second: ground-clipart-sprite_15
+  - first:
+      213: -2674399874515075994
+    second: ground-clipart-sprite_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground-clipart-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 256
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf2389b469dd740800000000000000
+      internalID: 5178460397966130072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 718
+        width: 256
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dce325fcace6460800000000000000
+      internalID: 7236944643017854236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 736
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a4c02c9b294ca30800000000000000
+      internalID: 4234670876157299263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 736
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd848014a1b409f80800000000000000
+      internalID: -8101893153507227428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ace7d64d41ca330800000000000000
+      internalID: 3723373894531205770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 449
+        width: 256
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774fe02a91080d670800000000000000
+      internalID: 8561483739212739703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 455
+        width: 256
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed68df854f3fa8550800000000000000
+      internalID: 6164007270800525022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 455
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9bc60db59c9fd50800000000000000
+      internalID: 6771664910904244732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c9db24eb735e1f0800000000000000
+      internalID: -1016344850599142261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 210
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5c93b0e32b09870800000000000000
+      internalID: 8687639660743738814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 210
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e553227b3d54c2b50800000000000000
+      internalID: 6569702732039599454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 210
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691800c6f564fdcd0800000000000000
+      internalID: -2531227089911119466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 210
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f25d524da72c0c0800000000000000
+      internalID: -4556944821359136985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 141
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c11ae91b37ef4320800000000000000
+      internalID: 2544506555511476672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 62
+        width: 137
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd183c9e7847bca0800000000000000
+      internalID: -6001248269823894031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 69
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de43b98eee168b2c0800000000000000
+      internalID: -4415671755904174867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 69
+        width: 137
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cfd24db7f92ead0800000000000000
+      internalID: -2674399874515075994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
